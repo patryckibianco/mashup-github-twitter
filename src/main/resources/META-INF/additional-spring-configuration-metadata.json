@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "mashup.search.uri.github",
+    "type": "java.lang.String",
+    "description": "A description for 'mashup.search.uri.github'"
+  },
+  {
+    "name": "mashup.search.uri.twitter",
+    "type": "java.lang.String",
+    "description": "A description for 'mashup.search.uri.twitter'"
+  },
+  {
+    "name": "mashup.search.query.param",
+    "type": "java.lang.String",
+    "description": "A description for 'mashup.search.query.param'"
+  },
+  {
+    "name": "mashup.bearer.token.twitter",
+    "type": "java.lang.String",
+    "description": "A description for 'mashup.bearer.token.twitter'"
+  },
+  {
+    "name": "mashup.bearer.token.type",
+    "type": "java.lang.String",
+    "description": "A description for 'mashup.bearer.token.type'"
+  },
+  {
+    "name": "mashup.twitter.access.token",
+    "type": "java.lang.String",
+    "description": "A description for 'mashup.twitter.access.token'"
+  },
+  {
+    "name": "mashup.twitter.token.type",
+    "type": "java.lang.String",
+    "description": "A description for 'mashup.twitter.token.type'"
+  },
+  {
+    "name": "mashup.github.search.limit",
+    "type": "java.lang.String",
+    "description": "A description for 'mashup.github.search.limit'"
+  },
+  {
+    "name": "mashup.github.search.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'mashup.github.search.uri'"
+  },
+  {
+    "name": "mashup.twitter.search.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'mashup.twitter.search.uri'"
+  },
+  {
+    "name": "mashup.search.limit.project",
+    "type": "java.lang.String",
+    "description": "A description for 'mashup.search.limit.project'"
+  },
+  {
+    "name": "mashup.search.project.limit",
+    "type": "java.lang.String",
+    "description": "A description for 'mashup.search.project.limit'"
+  }
+]}
